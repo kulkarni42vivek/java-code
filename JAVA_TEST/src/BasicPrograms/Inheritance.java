@@ -1,5 +1,4 @@
 package BasicPrograms;
-import javax.swing.*;
 import java.util.*;
 
 // inheritance is IS A RELATIONSHIP

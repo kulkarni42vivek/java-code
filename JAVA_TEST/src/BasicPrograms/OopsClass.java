@@ -6,7 +6,6 @@ package BasicPrograms;
 // extra concepts - coupling -- coupling meaning dependency of other classes on class
 //  cohesion -- mixing of classes java.io is highly cohesive , java.util is less cohesive, association , aggreagaaiton , composition
 
-import java.rmi.StubNotFoundException;
 import java.security.spec.ECField;
 
 interface testInterface {

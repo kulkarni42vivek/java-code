@@ -5,7 +5,6 @@ package BasicPrograms;
 // there are two ways to achieve abstraction - abstract class , - interface
 // abstract class needs to be extended and its methods to be implemented
 
-import com.sun.tools.javac.Main;
 
 abstract  class RandomClass{
     abstract int getValue();

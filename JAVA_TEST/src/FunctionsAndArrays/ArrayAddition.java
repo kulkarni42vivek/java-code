@@ -1,6 +1,5 @@
 package FunctionsAndArrays;
 
-import javax.print.DocFlavor;
 
 public class ArrayAddition {
     public static void main(String[] args) {
